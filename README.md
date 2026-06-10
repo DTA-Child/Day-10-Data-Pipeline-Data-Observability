@@ -1,43 +1,78 @@
 # Day 10 - Data Pipeline And Data Observability
+# 2A202600978
 
-Chào các bạn đến với bài lab Day 10.
+End-to-end RAG data pipeline using Crossref data, ChromaDB, MiniLM embeddings, evaluation metrics, data observability, corruption simulation, and repair analysis.
 
-Mục tiêu của bài này là xây dựng một ETL pipeline nhỏ nhưng đầy đủ cho một hệ thống RAG:
+## Features
 
-- Lấy dữ liệu học thuật từ nguồn bên ngoài
-- Làm sạch và chuẩn hóa thành cleaned dataset
-- Tạo embedding và nạp vào ChromaDB
-- Xây agent để trả lời câu hỏi trên bộ dữ liệu
-- Đánh giá chất lượng của agent trước và sau khi dữ liệu bị corrupt
-- Tạo báo cáo data quality, freshness và metrics comparison
+* Crossref API ingestion
+* Data cleaning & modeling
+* MiniLM embeddings
+* ChromaDB vector store
+* Retrieval evaluation
+* Quality & freshness monitoring
+* Data corruption simulation
+* Data repair and recovery analysis
 
-Cấu trúc chính:
+## Run
 
-- `src/core/`: config và utility dùng chung
-- `src/ingestion/`: load source, clean, corrupt data
-- `src/retrieval/`: embeddings, vector store, LLM providers, agent
-- `src/evaluation/`: test set và scoring
-- `src/observability/`: quality checks, freshness, reports
-- `src/pipelines/`: flow baseline và flow corruption
-- `script/`: entrypoint để chạy lab
-- `data/`: nơi chứa artifact đầu ra
-
-Tài liệu hướng dẫn:
-
-- [Guide.md](Guide.md)
-- [Rubric.md](Rubric.md)
-
-Gợi ý cách bắt đầu:
+### Phase 1
 
 ```bash
-uv sync
 uv run python script/run_phase1.py
 ```
 
-Nếu dùng `pip` thay vì `uv`, các bạn có thể cài bằng:
+### Phase 2
 
 ```bash
-pip install -r requirements.txt
+uv run python script/run_corruption_flow.py
 ```
 
-Nếu code chưa chạy được thì đó là bình thường. Các bạn cần hoàn thành các file pseudo-code trước, sau đó mới có thể chạy end-to-end.
+### Dashboard
+
+```bash
+streamlit run dashboard/app.py
+```
+
+### Link deploy
+
+```bash
+https://day-10-2a202600978-data-pipeline-data-observability.streamlit.app/
+```
+
+## Results
+
+| Metric             | Baseline | Corrupted | Repaired |
+| ------------------ | -------- | --------- | -------- |
+| Retrieval Hit Rate | 1.000    | 0.875     | 1.000    |
+| Mean Token F1      | 0.750    | 0.628     | 0.750    |
+| Judge Accuracy     | 0.750    | 0.625     | 0.750    |
+| Mean Judge Score   | 4.000    | 3.500     | 4.000    |
+
+## Project Structure
+
+```text
+src/
+├── ingestion/
+├── retrieval/
+├── evaluation/
+├── observability/
+└── pipelines/
+
+script/
+├── run_phase1.py
+└── run_corruption_flow.py
+
+data/
+├── raw/
+├── clean/
+├── embeddings/
+├── chroma/
+├── quality/
+├── results/
+└── reports/
+```
+
+## Key Finding
+
+Corrupted data reduced retrieval and answer quality. Repairing the dataset restored metrics back to baseline levels, demonstrating the importance of data quality and observability in RAG systems.

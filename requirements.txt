@@ -11,3 +11,7 @@ python-dotenv>=1.0.1
 ragas>=0.3.0
 requests>=2.32.3
 sentence-transformers>=5.0.0
+streamlit==1.45.1
+pandas==2.3.0
+numpy==2.2.6
+matplotlib==3.10.3
