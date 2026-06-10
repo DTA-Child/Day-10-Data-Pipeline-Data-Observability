@@ -34,11 +34,6 @@ uv run python script/run_corruption_flow.py
 streamlit run dashboard/app.py
 ```
 
-### Link deploy
-
-```bash
-https://day-10-2a202600978-data-pipeline-data-observability.streamlit.app/
-```
 
 ## Results
 
