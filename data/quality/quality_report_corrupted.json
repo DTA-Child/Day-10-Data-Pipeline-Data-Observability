@@ -1,0 +1,70 @@
+{
+  "total_records": 23,
+  "failed_records": 6,
+  "passed_records": 17,
+  "pass_rate": 0.7391,
+  "freshness_threshold_days": 180,
+  "failed_record_ids": [
+    "10.30656/1intech.v11i2.11359",
+    "10.35429/jhrt.2026.12.27.2.1.13",
+    "10.35429/jhrt.2026.12.27.3.1.5",
+    "10.51153/mf.v20.i2.709",
+    "10.54288/yotantsipanko.v5i2.57",
+    "10.62872/sza4qm30"
+  ],
+  "issues": [
+    {
+      "issue_type": "missing_title",
+      "description": "Records with missing or blank title.",
+      "count": 0,
+      "record_ids": []
+    },
+    {
+      "issue_type": "missing_summary",
+      "description": "Records with missing or blank summary.",
+      "count": 2,
+      "record_ids": [
+        "10.30656/1intech.v11i2.11359",
+        "10.51153/mf.v20.i2.709"
+      ]
+    },
+    {
+      "issue_type": "duplicate_records",
+      "description": "Records with duplicate paper_id values.",
+      "count": 4,
+      "record_ids": [
+        "10.54288/yotantsipanko.v5i2.57",
+        "10.62872/sza4qm30",
+        "10.54288/yotantsipanko.v5i2.57",
+        "10.62872/sza4qm30"
+      ]
+    },
+    {
+      "issue_type": "stale_records",
+      "description": "Records with age_days greater than 180, or missing age_days.",
+      "count": 2,
+      "record_ids": [
+        "10.35429/jhrt.2026.12.27.2.1.13",
+        "10.35429/jhrt.2026.12.27.3.1.5"
+      ]
+    }
+  ],
+  "checks": {
+    "missing_title": {
+      "passed": true,
+      "failed_records": 0
+    },
+    "missing_summary": {
+      "passed": false,
+      "failed_records": 2
+    },
+    "duplicate_records": {
+      "passed": false,
+      "failed_records": 4
+    },
+    "stale_records": {
+      "passed": false,
+      "failed_records": 2
+    }
+  }
+}

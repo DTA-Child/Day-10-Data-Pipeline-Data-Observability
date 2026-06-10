@@ -1,0 +1,52 @@
+{
+  "total_records": 24,
+  "failed_records": 0,
+  "passed_records": 24,
+  "pass_rate": 1.0,
+  "freshness_threshold_days": 180,
+  "failed_record_ids": [],
+  "issues": [
+    {
+      "issue_type": "missing_title",
+      "description": "Records with missing or blank title.",
+      "count": 0,
+      "record_ids": []
+    },
+    {
+      "issue_type": "missing_summary",
+      "description": "Records with missing or blank summary.",
+      "count": 0,
+      "record_ids": []
+    },
+    {
+      "issue_type": "duplicate_records",
+      "description": "Records with duplicate paper_id values.",
+      "count": 0,
+      "record_ids": []
+    },
+    {
+      "issue_type": "stale_records",
+      "description": "Records with age_days greater than 180, or missing age_days.",
+      "count": 0,
+      "record_ids": []
+    }
+  ],
+  "checks": {
+    "missing_title": {
+      "passed": true,
+      "failed_records": 0
+    },
+    "missing_summary": {
+      "passed": true,
+      "failed_records": 0
+    },
+    "duplicate_records": {
+      "passed": true,
+      "failed_records": 0
+    },
+    "stale_records": {
+      "passed": true,
+      "failed_records": 0
+    }
+  }
+}

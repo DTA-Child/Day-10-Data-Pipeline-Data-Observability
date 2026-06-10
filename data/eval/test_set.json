@@ -1,0 +1,866 @@
+[
+  {
+    "id": "eval-001",
+    "question_type": "author",
+    "question": "Who authored 'Model Kebijakan Dividen pada Bank Pembangunan Daerah di Indonesia dengan Ukuran Perusahaan Sebagai Moderasi'?",
+    "ground_truth": "Sindy Friska Alfiana, Linda Purnama Sari",
+    "ground_truth_doc_ids": [
+      "10.14414/jbb.v15i01.5538"
+    ]
+  },
+  {
+    "id": "eval-002",
+    "question_type": "author",
+    "question": "Who authored 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development'?",
+    "ground_truth": "Umi Chasanah Turosidah, Yeri Sutopo, Sri Endah Wahyuningsih, Ade Novi Nurul Ihsani",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "eval-003",
+    "question_type": "author",
+    "question": "Who authored 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers Agricultural Promotion Short Videos on Douyin'?",
+    "ground_truth": "Yixin Chen",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "eval-004",
+    "question_type": "author",
+    "question": "Who authored 'Factors Influencing the Formation of Augmented Reality Systems'?",
+    "ground_truth": "Larisa V. Kruglova, Fafa K. Ceesay, Rokhaya Samb",
+    "ground_truth_doc_ids": [
+      "10.22363/2312-8143-2026-27-1-70-80"
+    ]
+  },
+  {
+    "id": "eval-005",
+    "question_type": "author",
+    "question": "Who authored 'Language and gender: Linguistic, social and ethical paradoxes of inclusive communication'?",
+    "ground_truth": "Elena S. Gritsenko",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-46513"
+    ]
+  },
+  {
+    "id": "eval-006",
+    "question_type": "author",
+    "question": "Who authored 'Legitimacy of varieties of English as a non-native language'?",
+    "ground_truth": "Zoya G. Proshina",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-47921"
+    ]
+  },
+  {
+    "id": "eval-007",
+    "question_type": "author",
+    "question": "Who authored 'Systemic functional linguistics and social cognition: A theoretical approach to the relationship between language, society and culture'?",
+    "ground_truth": "Cl\u00e1udio M\u00e1rcio do Carmo",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-48784"
+    ]
+  },
+  {
+    "id": "eval-008",
+    "question_type": "author",
+    "question": "Who authored 'Language, culture, cognition and communication: The paradigms of modern linguistic research'?",
+    "ground_truth": "Tatiana V. Larina",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-48905"
+    ]
+  },
+  {
+    "id": "eval-009",
+    "question_type": "author",
+    "question": "Who authored 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN'?",
+    "ground_truth": "Cikal Wulandari Kristi, Widya Kusumaningsih, Rizky Esti Utami",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "eval-010",
+    "question_type": "author",
+    "question": "Who authored 'The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction'?",
+    "ground_truth": "Achmad Fazi Alam, Dhany Isnaeni Dharmawan",
+    "ground_truth_doc_ids": [
+      "10.30656/1intech.v11i2.11359"
+    ]
+  },
+  {
+    "id": "eval-011",
+    "question_type": "author",
+    "question": "Who authored 'THE MODEL OF TELEMEDICINE CONTACT-CENTER'?",
+    "ground_truth": "M. A. Yakushin, E. N. Kabaeva, A. V. Vorobeva",
+    "ground_truth_doc_ids": [
+      "10.32687/0869-866x-2026-34-1-25-33"
+    ]
+  },
+  {
+    "id": "eval-012",
+    "question_type": "author",
+    "question": "Who authored 'THE FRACTAL CYBERNETIC ARCHITECTURE OF THE REGIONAL ANTI-NARCOTIC STRATEGY BASED ON MODEL ORIENTED SYSTEMIC ENGINEERING AS A TOOL OF INTERSECTORAL ADAPTIVE MANAGEMENT'?",
+    "ground_truth": "A. V. Akhokhova, V. V. Lyutsko, M. K. Tkhagapsoeva, D. V. Zheligotova",
+    "ground_truth_doc_ids": [
+      "10.32687/0869-866x-2026-34-2-285-290"
+    ]
+  },
+  {
+    "id": "eval-013",
+    "question_type": "author",
+    "question": "Who authored 'AI-Based Performance Analysis of Renewable Energy Systems for Sustainable Power Generation'?",
+    "ground_truth": "Vidhya G, Suchithra, M, Santhosh G, Anupama M",
+    "ground_truth_doc_ids": [
+      "10.33425/3066-1226.1195"
+    ]
+  },
+  {
+    "id": "eval-014",
+    "question_type": "author",
+    "question": "Who authored 'Digital marketing factors influencing Generation Z\u2019s purchase intention in the restaurant sector: a systematic review'?",
+    "ground_truth": "Iris Leandra Alfonso-Sanjul, Elizabeth Acosta-Gonzaga",
+    "ground_truth_doc_ids": [
+      "10.35429/ejm.2026.17.35.1.1.10"
+    ]
+  },
+  {
+    "id": "eval-015",
+    "question_type": "author",
+    "question": "Who authored 'Model of teaching strategies for the transition from competency-based education to a humanistic educational model for social justice at TecNM'?",
+    "ground_truth": "Adri\u00e1n P\u00e9rez-V\u00e1zquez, Laura Vidal-Reyes, Mar\u00eda de Lourdes Torres-Madrid, Yaitla Aitza Reyes-Osorio",
+    "ground_truth_doc_ids": [
+      "10.35429/jet.2026.10.21.3.1.6"
+    ]
+  },
+  {
+    "id": "eval-016",
+    "question_type": "author",
+    "question": "Who authored 'Validated instrument to measure quality of work life in generation Z: A Contextualized Proposal in Tepeji del R\u00edo'?",
+    "ground_truth": "Paola Gizeth Jim\u00e9nez-Fabian, Magda Gabriela S\u00e1nchez-Trujillo",
+    "ground_truth_doc_ids": [
+      "10.35429/jhrt.2026.12.27.2.1.13"
+    ]
+  },
+  {
+    "id": "eval-017",
+    "question_type": "author",
+    "question": "Who authored 'Analysis of leadership in small family businesses in the municipality of Centro, Tabasco, to generate a development model'?",
+    "ground_truth": "Karen Daheli Madrigal-P\u00e9rez, Leticia L\u00f3pez-Valdivieso, David Antonio Garc\u00eda-Reyes, Jucelly Castro-De la Cruz",
+    "ground_truth_doc_ids": [
+      "10.35429/jhrt.2026.12.27.3.1.5"
+    ]
+  },
+  {
+    "id": "eval-018",
+    "question_type": "author",
+    "question": "Who authored 'A Moderating and mediating model of innovation performance'?",
+    "ground_truth": "Saira Naz, Fatima Liaquat",
+    "ground_truth_doc_ids": [
+      "10.51153/mf.v20.i2.709"
+    ]
+  },
+  {
+    "id": "eval-019",
+    "question_type": "author",
+    "question": "Who authored 'Modelo organizacional para la articulaci\u00f3n entre proyecci\u00f3n social y responsabilidad social universitaria en universidades p\u00fablicas peruanas.'?",
+    "ground_truth": "Sa\u00fal Mor\u00e1n Cusi",
+    "ground_truth_doc_ids": [
+      "10.54288/yotantsipanko.v5i2.57"
+    ]
+  },
+  {
+    "id": "eval-020",
+    "question_type": "author",
+    "question": "Who authored 'How do Ethical Leaders Promote Employees Feedback-Seeking Behaviours? A Serial Mediation Model'?",
+    "ground_truth": "Wasim Ul Rehman, Mustafa Bekmezci, L\u00fctfi S\u00fcr\u00fcc\u00fc, Kamran Ali, Anam Mustansar",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "eval-021",
+    "question_type": "author",
+    "question": "Who authored '5G and Beyond: IoT Support in Next-Generation Networks'?",
+    "ground_truth": "Ya\u2019u Nuhu, Mukhtar Shehu, Mohammed Maikolo, Mukhtar Musa Zakari",
+    "ground_truth_doc_ids": [
+      "10.59568/jasic-2025-6-2-06"
+    ]
+  },
+  {
+    "id": "eval-022",
+    "question_type": "author",
+    "question": "Who authored 'MANAJEMEN DIKLAT TRANSFORMATIF: Model, Strategi, Dan Implementasi Dalam Kerangka Merdeka Belajar\u2013Kampus Merdeka'?",
+    "ground_truth": "Mohammad Zaini, Dani Hermawan, Jufriyanto Jufriyanto",
+    "ground_truth_doc_ids": [
+      "10.62523/aksarashofa.6"
+    ]
+  },
+  {
+    "id": "eval-023",
+    "question_type": "author",
+    "question": "Who authored 'Increasing Awareness of the Younger Generation on Political Participation in General Elections'?",
+    "ground_truth": "Marudut Hasugian, Firman, Muhamad Sofian",
+    "ground_truth_doc_ids": [
+      "10.62872/sza4qm30"
+    ]
+  },
+  {
+    "id": "eval-024",
+    "question_type": "author",
+    "question": "Who authored 'Hybrid Model Process Design of Joint Operator-Robot Interaction within a Synergistic System'?",
+    "ground_truth": "M. Gorkavyy, Y. Ivanov, D. Grabar, D. Solovev",
+    "ground_truth_doc_ids": [
+      "10.64592/cpssg.2026.2"
+    ]
+  },
+  {
+    "id": "eval-025",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Model Kebijakan Dividen pada Bank Pembangunan Daerah di Indonesia dengan Ukuran Perusahaan Sebagai Moderasi'?",
+    "ground_truth": "Dividend policy is an important corporate decision in determining the proportion of profits distributed to shareholders and reflects a company\u2019s financial condition and performance.",
+    "ground_truth_doc_ids": [
+      "10.14414/jbb.v15i01.5538"
+    ]
+  },
+  {
+    "id": "eval-026",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development'?",
+    "ground_truth": "This study aims to examine the effects, improvements, and differences in the skills and work attitudes of students through the integration of a Deep Learning approach with the Project Based Learning PjBL model in the Style and Design Development element of the Fashion Design and Production subject at vocational high schools.",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "eval-027",
+    "question_type": "summary",
+    "question": "What is the main summary of 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers Agricultural Promotion Short Videos on Douyin'?",
+    "ground_truth": "This study selects 15 short videos published over the past year by new-type farmers (xin nong ren) on Douyin as research corpus.",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "eval-028",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Factors Influencing the Formation of Augmented Reality Systems'?",
+    "ground_truth": "This study identifies and analyzes the factors influencing the formation, functioning, usability, and efficiency of augmented reality (AR) systems.",
+    "ground_truth_doc_ids": [
+      "10.22363/2312-8143-2026-27-1-70-80"
+    ]
+  },
+  {
+    "id": "eval-029",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Language and gender: Linguistic, social and ethical paradoxes of inclusive communication'?",
+    "ground_truth": "Contemporary scholarly discourse on gender-inclusive communication remains predominantly descriptive, often avoiding a systematic critical analysis of its internal contradictions and social consequences.",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-46513"
+    ]
+  },
+  {
+    "id": "eval-030",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Legitimacy of varieties of English as a non-native language'?",
+    "ground_truth": "The article discusses the status of varieties of a pluricentric language, such as Russian English, Chinese English, among others.",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-47921"
+    ]
+  },
+  {
+    "id": "eval-031",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Systemic functional linguistics and social cognition: A theoretical approach to the relationship between language, society and culture'?",
+    "ground_truth": "In this article, I argue in favor of strengthening the relationship between Systemic Functional Linguistics (SFL) and Social Cognition in order to answer the following question: how could we extend the understanding of how linguistic choices are affected or complemented cognitively?",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-48784"
+    ]
+  },
+  {
+    "id": "eval-032",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Language, culture, cognition and communication: The paradigms of modern linguistic research'?",
+    "ground_truth": "This special issue is devoted to the study of correlation between language, culture, cognition and communication.",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-48905"
+    ]
+  },
+  {
+    "id": "eval-033",
+    "question_type": "summary",
+    "question": "What is the main summary of 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN'?",
+    "ground_truth": "Pemahaman siswa terhadap ide-ide dasar adalah hasil yang diharapkan dari penyelidikan ini tentang kemanjuran paradigma instruksional Pembelajaran Berbasis Masalah (PBL) dengan penggunaan alat pedagogis.",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "eval-034",
+    "question_type": "summary",
+    "question": "What is the main summary of 'The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction'?",
+    "ground_truth": "The increasingly advanced and modern social and cultural development of society has led many people to prefer instant and practical things, such as online transportation.",
+    "ground_truth_doc_ids": [
+      "10.30656/1intech.v11i2.11359"
+    ]
+  },
+  {
+    "id": "eval-035",
+    "question_type": "summary",
+    "question": "What is the main summary of 'THE MODEL OF TELEMEDICINE CONTACT-CENTER'?",
+    "ground_truth": "The article presents results of comparative analysis of modern telemedicine technologies and organizational models of their implementation in health care system.",
+    "ground_truth_doc_ids": [
+      "10.32687/0869-866x-2026-34-1-25-33"
+    ]
+  },
+  {
+    "id": "eval-036",
+    "question_type": "summary",
+    "question": "What is the main summary of 'THE FRACTAL CYBERNETIC ARCHITECTURE OF THE REGIONAL ANTI-NARCOTIC STRATEGY BASED ON MODEL ORIENTED SYSTEMIC ENGINEERING AS A TOOL OF INTERSECTORAL ADAPTIVE MANAGEMENT'?",
+    "ground_truth": "This article substantiates the choice of fractal cybernetic architecture of regional anti-narcotic strategy based on the principles of the model-oriented systemic engineering.",
+    "ground_truth_doc_ids": [
+      "10.32687/0869-866x-2026-34-2-285-290"
+    ]
+  },
+  {
+    "id": "eval-037",
+    "question_type": "summary",
+    "question": "What is the main summary of 'AI-Based Performance Analysis of Renewable Energy Systems for Sustainable Power Generation'?",
+    "ground_truth": "The growing demand for clean and reliable energy has accelerated the adoption of renewable energysystems such as solar photovoltaic and wind power technologies.",
+    "ground_truth_doc_ids": [
+      "10.33425/3066-1226.1195"
+    ]
+  },
+  {
+    "id": "eval-038",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Digital marketing factors influencing Generation Z\u2019s purchase intention in the restaurant sector: a systematic review'?",
+    "ground_truth": "This article addresses the need to understand how digital marketing influences the purchasing intentions of Generation Z, a key demographic for the restaurant industry due to its strong digital presence.",
+    "ground_truth_doc_ids": [
+      "10.35429/ejm.2026.17.35.1.1.10"
+    ]
+  },
+  {
+    "id": "eval-039",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Model of teaching strategies for the transition from competency-based education to a humanistic educational model for social justice at TecNM'?",
+    "ground_truth": "This study aimed to design, implement, and validate a teaching strategies model to support the transition from competency-based education to a humanistic educational model focused on social justice at TecNM.",
+    "ground_truth_doc_ids": [
+      "10.35429/jet.2026.10.21.3.1.6"
+    ]
+  },
+  {
+    "id": "eval-040",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Validated instrument to measure quality of work life in generation Z: A Contextualized Proposal in Tepeji del R\u00edo'?",
+    "ground_truth": "Quality of Work Life [QWL] is a key factor influencing employee well being, particularly among Generation Z, who value flexibility and work life balance.",
+    "ground_truth_doc_ids": [
+      "10.35429/jhrt.2026.12.27.2.1.13"
+    ]
+  },
+  {
+    "id": "eval-041",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Analysis of leadership in small family businesses in the municipality of Centro, Tabasco, to generate a development model'?",
+    "ground_truth": "Small family businesses are key players in regional economic development.",
+    "ground_truth_doc_ids": [
+      "10.35429/jhrt.2026.12.27.3.1.5"
+    ]
+  },
+  {
+    "id": "eval-042",
+    "question_type": "summary",
+    "question": "What is the main summary of 'A Moderating and mediating model of innovation performance'?",
+    "ground_truth": "Pioneer performances depend on entrepreneurial orientation for their success.",
+    "ground_truth_doc_ids": [
+      "10.51153/mf.v20.i2.709"
+    ]
+  },
+  {
+    "id": "eval-043",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Modelo organizacional para la articulaci\u00f3n entre proyecci\u00f3n social y responsabilidad social universitaria en universidades p\u00fablicas peruanas.'?",
+    "ground_truth": "El estudio analiza la pertinencia t\u00e9cnica y normativa deimplementar una Direcci\u00f3n de Responsabilidad SocialUniversitaria (DRSU) en universidades p\u00fablicas peruanas, as\u00edcomo su posible articulaci\u00f3n o fusi\u00f3n con la actual Direcci\u00f3n deProyecci\u00f3n Social y Cultural (DPSC).",
+    "ground_truth_doc_ids": [
+      "10.54288/yotantsipanko.v5i2.57"
+    ]
+  },
+  {
+    "id": "eval-044",
+    "question_type": "summary",
+    "question": "What is the main summary of 'How do Ethical Leaders Promote Employees Feedback-Seeking Behaviours? A Serial Mediation Model'?",
+    "ground_truth": "This study explores how ethical leadership fosters employees' feedback-seeking behaviours.",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "eval-045",
+    "question_type": "summary",
+    "question": "What is the main summary of '5G and Beyond: IoT Support in Next-Generation Networks'?",
+    "ground_truth": "The arrival of 5G signals the beginning of a new era of connectivity, one that has the potential to transform many sectors.",
+    "ground_truth_doc_ids": [
+      "10.59568/jasic-2025-6-2-06"
+    ]
+  },
+  {
+    "id": "eval-046",
+    "question_type": "summary",
+    "question": "What is the main summary of 'MANAJEMEN DIKLAT TRANSFORMATIF: Model, Strategi, Dan Implementasi Dalam Kerangka Merdeka Belajar\u2013Kampus Merdeka'?",
+    "ground_truth": "Buku Manajemen Diklat Transformatif: Model, Strategi, dan Implementasi dalam Kerangka Merdeka Belajar\u2013Kampus Merdeka disusun untuk memberikan pemahaman komprehensif mengenai manajemen pendidikan dan pelatihan (diklat) sebagai proses pembelajaran yang tidak hanya bersifat teknis dan administratif, tetapi juga berorientasi pada pengembangan manusia secara utuh.",
+    "ground_truth_doc_ids": [
+      "10.62523/aksarashofa.6"
+    ]
+  },
+  {
+    "id": "eval-047",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Increasing Awareness of the Younger Generation on Political Participation in General Elections'?",
+    "ground_truth": "General elections are the main pillars of Indonesian democracy as stipulated in Article 27 of the 1945 Constitution of the Republic of Indonesia and Law Number 7 of 2017 concerning General Elections.",
+    "ground_truth_doc_ids": [
+      "10.62872/sza4qm30"
+    ]
+  },
+  {
+    "id": "eval-048",
+    "question_type": "summary",
+    "question": "What is the main summary of 'Hybrid Model Process Design of Joint Operator-Robot Interaction within a Synergistic System'?",
+    "ground_truth": "The paper deals with the issues of increasing the efficiency of functioning of synergetic robotic systems by searching for waysto improve the simulationmodels underlying them (increasing the degree of completeness and adequacy).",
+    "ground_truth_doc_ids": [
+      "10.64592/cpssg.2026.2"
+    ]
+  },
+  {
+    "id": "eval-049",
+    "question_type": "publication",
+    "question": "When was 'Model Kebijakan Dividen pada Bank Pembangunan Daerah di Indonesia dengan Ukuran Perusahaan Sebagai Moderasi' published?",
+    "ground_truth": "2026-12-02",
+    "ground_truth_doc_ids": [
+      "10.14414/jbb.v15i01.5538"
+    ]
+  },
+  {
+    "id": "eval-050",
+    "question_type": "publication",
+    "question": "When was 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development' published?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "eval-051",
+    "question_type": "publication",
+    "question": "When was 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers Agricultural Promotion Short Videos on Douyin' published?",
+    "ground_truth": "2027-05-07",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "eval-052",
+    "question_type": "publication",
+    "question": "When was 'Factors Influencing the Formation of Augmented Reality Systems' published?",
+    "ground_truth": "2026-12-15",
+    "ground_truth_doc_ids": [
+      "10.22363/2312-8143-2026-27-1-70-80"
+    ]
+  },
+  {
+    "id": "eval-053",
+    "question_type": "publication",
+    "question": "When was 'Language and gender: Linguistic, social and ethical paradoxes of inclusive communication' published?",
+    "ground_truth": "2026-12-15",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-46513"
+    ]
+  },
+  {
+    "id": "eval-054",
+    "question_type": "publication",
+    "question": "When was 'Legitimacy of varieties of English as a non-native language' published?",
+    "ground_truth": "2026-12-15",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-47921"
+    ]
+  },
+  {
+    "id": "eval-055",
+    "question_type": "publication",
+    "question": "When was 'Systemic functional linguistics and social cognition: A theoretical approach to the relationship between language, society and culture' published?",
+    "ground_truth": "2026-12-15",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-48784"
+    ]
+  },
+  {
+    "id": "eval-056",
+    "question_type": "publication",
+    "question": "When was 'Language, culture, cognition and communication: The paradigms of modern linguistic research' published?",
+    "ground_truth": "2026-12-15",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-48905"
+    ]
+  },
+  {
+    "id": "eval-057",
+    "question_type": "publication",
+    "question": "When was 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN' published?",
+    "ground_truth": "2027-04-27",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "eval-058",
+    "question_type": "publication",
+    "question": "When was 'The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction' published?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.30656/1intech.v11i2.11359"
+    ]
+  },
+  {
+    "id": "eval-059",
+    "question_type": "publication",
+    "question": "When was 'THE MODEL OF TELEMEDICINE CONTACT-CENTER' published?",
+    "ground_truth": "2026-12-15",
+    "ground_truth_doc_ids": [
+      "10.32687/0869-866x-2026-34-1-25-33"
+    ]
+  },
+  {
+    "id": "eval-060",
+    "question_type": "publication",
+    "question": "When was 'THE FRACTAL CYBERNETIC ARCHITECTURE OF THE REGIONAL ANTI-NARCOTIC STRATEGY BASED ON MODEL ORIENTED SYSTEMIC ENGINEERING AS A TOOL OF INTERSECTORAL ADAPTIVE MANAGEMENT' published?",
+    "ground_truth": "2026-12-15",
+    "ground_truth_doc_ids": [
+      "10.32687/0869-866x-2026-34-2-285-290"
+    ]
+  },
+  {
+    "id": "eval-061",
+    "question_type": "publication",
+    "question": "When was 'AI-Based Performance Analysis of Renewable Energy Systems for Sustainable Power Generation' published?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.33425/3066-1226.1195"
+    ]
+  },
+  {
+    "id": "eval-062",
+    "question_type": "publication",
+    "question": "When was 'Digital marketing factors influencing Generation Z\u2019s purchase intention in the restaurant sector: a systematic review' published?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.35429/ejm.2026.17.35.1.1.10"
+    ]
+  },
+  {
+    "id": "eval-063",
+    "question_type": "publication",
+    "question": "When was 'Model of teaching strategies for the transition from competency-based education to a humanistic educational model for social justice at TecNM' published?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.35429/jet.2026.10.21.3.1.6"
+    ]
+  },
+  {
+    "id": "eval-064",
+    "question_type": "publication",
+    "question": "When was 'Validated instrument to measure quality of work life in generation Z: A Contextualized Proposal in Tepeji del R\u00edo' published?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.35429/jhrt.2026.12.27.2.1.13"
+    ]
+  },
+  {
+    "id": "eval-065",
+    "question_type": "publication",
+    "question": "When was 'Analysis of leadership in small family businesses in the municipality of Centro, Tabasco, to generate a development model' published?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.35429/jhrt.2026.12.27.3.1.5"
+    ]
+  },
+  {
+    "id": "eval-066",
+    "question_type": "publication",
+    "question": "When was 'A Moderating and mediating model of innovation performance' published?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.51153/mf.v20.i2.709"
+    ]
+  },
+  {
+    "id": "eval-067",
+    "question_type": "publication",
+    "question": "When was 'Modelo organizacional para la articulaci\u00f3n entre proyecci\u00f3n social y responsabilidad social universitaria en universidades p\u00fablicas peruanas.' published?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.54288/yotantsipanko.v5i2.57"
+    ]
+  },
+  {
+    "id": "eval-068",
+    "question_type": "publication",
+    "question": "When was 'How do Ethical Leaders Promote Employees Feedback-Seeking Behaviours? A Serial Mediation Model' published?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "eval-069",
+    "question_type": "publication",
+    "question": "When was '5G and Beyond: IoT Support in Next-Generation Networks' published?",
+    "ground_truth": "2026-12-29",
+    "ground_truth_doc_ids": [
+      "10.59568/jasic-2025-6-2-06"
+    ]
+  },
+  {
+    "id": "eval-070",
+    "question_type": "publication",
+    "question": "When was 'MANAJEMEN DIKLAT TRANSFORMATIF: Model, Strategi, Dan Implementasi Dalam Kerangka Merdeka Belajar\u2013Kampus Merdeka' published?",
+    "ground_truth": "2026-12-21",
+    "ground_truth_doc_ids": [
+      "10.62523/aksarashofa.6"
+    ]
+  },
+  {
+    "id": "eval-071",
+    "question_type": "publication",
+    "question": "When was 'Increasing Awareness of the Younger Generation on Political Participation in General Elections' published?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.62872/sza4qm30"
+    ]
+  },
+  {
+    "id": "eval-072",
+    "question_type": "publication",
+    "question": "When was 'Hybrid Model Process Design of Joint Operator-Robot Interaction within a Synergistic System' published?",
+    "ground_truth": "2026-12-01",
+    "ground_truth_doc_ids": [
+      "10.64592/cpssg.2026.2"
+    ]
+  },
+  {
+    "id": "eval-073",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Model Kebijakan Dividen pada Bank Pembangunan Daerah di Indonesia dengan Ukuran Perusahaan Sebagai Moderasi'?",
+    "ground_truth": "Journal of Business & Banking",
+    "ground_truth_doc_ids": [
+      "10.14414/jbb.v15i01.5538"
+    ]
+  },
+  {
+    "id": "eval-074",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development'?",
+    "ground_truth": "Journal of Vocational and Career Education",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "eval-075",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers Agricultural Promotion Short Videos on Douyin'?",
+    "ground_truth": "English Language Teaching and Linguistics Studies",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "eval-076",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Factors Influencing the Formation of Augmented Reality Systems'?",
+    "ground_truth": "RUDN Journal of Engineering Researches",
+    "ground_truth_doc_ids": [
+      "10.22363/2312-8143-2026-27-1-70-80"
+    ]
+  },
+  {
+    "id": "eval-077",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Language and gender: Linguistic, social and ethical paradoxes of inclusive communication'?",
+    "ground_truth": "Russian Journal of Linguistics",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-46513"
+    ]
+  },
+  {
+    "id": "eval-078",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Legitimacy of varieties of English as a non-native language'?",
+    "ground_truth": "Russian Journal of Linguistics",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-47921"
+    ]
+  },
+  {
+    "id": "eval-079",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Systemic functional linguistics and social cognition: A theoretical approach to the relationship between language, society and culture'?",
+    "ground_truth": "Russian Journal of Linguistics",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-48784"
+    ]
+  },
+  {
+    "id": "eval-080",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Language, culture, cognition and communication: The paradigms of modern linguistic research'?",
+    "ground_truth": "Russian Journal of Linguistics",
+    "ground_truth_doc_ids": [
+      "10.22363/2687-0088-48905"
+    ]
+  },
+  {
+    "id": "eval-081",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN'?",
+    "ground_truth": "JIPMat",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "eval-082",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction'?",
+    "ground_truth": "Jurnal INTECH Teknik Industri Universitas Serang Raya",
+    "ground_truth_doc_ids": [
+      "10.30656/1intech.v11i2.11359"
+    ]
+  },
+  {
+    "id": "eval-083",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'THE MODEL OF TELEMEDICINE CONTACT-CENTER'?",
+    "ground_truth": "Problems of Social Hygiene, Public Health and History of Medicine",
+    "ground_truth_doc_ids": [
+      "10.32687/0869-866x-2026-34-1-25-33"
+    ]
+  },
+  {
+    "id": "eval-084",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'THE FRACTAL CYBERNETIC ARCHITECTURE OF THE REGIONAL ANTI-NARCOTIC STRATEGY BASED ON MODEL ORIENTED SYSTEMIC ENGINEERING AS A TOOL OF INTERSECTORAL ADAPTIVE MANAGEMENT'?",
+    "ground_truth": "Problems of Social Hygiene, Public Health and History of Medicine",
+    "ground_truth_doc_ids": [
+      "10.32687/0869-866x-2026-34-2-285-290"
+    ]
+  },
+  {
+    "id": "eval-085",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'AI-Based Performance Analysis of Renewable Energy Systems for Sustainable Power Generation'?",
+    "ground_truth": "Global Journal of Engineering Innovations and Interdisciplinary Research",
+    "ground_truth_doc_ids": [
+      "10.33425/3066-1226.1195"
+    ]
+  },
+  {
+    "id": "eval-086",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Digital marketing factors influencing Generation Z\u2019s purchase intention in the restaurant sector: a systematic review'?",
+    "ground_truth": "ECORFAN Journal Mexico",
+    "ground_truth_doc_ids": [
+      "10.35429/ejm.2026.17.35.1.1.10"
+    ]
+  },
+  {
+    "id": "eval-087",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Model of teaching strategies for the transition from competency-based education to a humanistic educational model for social justice at TecNM'?",
+    "ground_truth": "Revista Teor\u00eda Educativa",
+    "ground_truth_doc_ids": [
+      "10.35429/jet.2026.10.21.3.1.6"
+    ]
+  },
+  {
+    "id": "eval-088",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Validated instrument to measure quality of work life in generation Z: A Contextualized Proposal in Tepeji del R\u00edo'?",
+    "ground_truth": "Journal of Human Resources Training",
+    "ground_truth_doc_ids": [
+      "10.35429/jhrt.2026.12.27.2.1.13"
+    ]
+  },
+  {
+    "id": "eval-089",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Analysis of leadership in small family businesses in the municipality of Centro, Tabasco, to generate a development model'?",
+    "ground_truth": "Journal of Human Resources Training",
+    "ground_truth_doc_ids": [
+      "10.35429/jhrt.2026.12.27.3.1.5"
+    ]
+  },
+  {
+    "id": "eval-090",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'A Moderating and mediating model of innovation performance'?",
+    "ground_truth": "Market Forces",
+    "ground_truth_doc_ids": [
+      "10.51153/mf.v20.i2.709"
+    ]
+  },
+  {
+    "id": "eval-091",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Modelo organizacional para la articulaci\u00f3n entre proyecci\u00f3n social y responsabilidad social universitaria en universidades p\u00fablicas peruanas.'?",
+    "ground_truth": "Yotantsipanko",
+    "ground_truth_doc_ids": [
+      "10.54288/yotantsipanko.v5i2.57"
+    ]
+  },
+  {
+    "id": "eval-092",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'How do Ethical Leaders Promote Employees Feedback-Seeking Behaviours? A Serial Mediation Model'?",
+    "ground_truth": "Drustvena istrazivanja",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "eval-093",
+    "question_type": "topic",
+    "question": "What categories or topic describe '5G and Beyond: IoT Support in Next-Generation Networks'?",
+    "ground_truth": "Journal of Applied Science, Information and Computing",
+    "ground_truth_doc_ids": [
+      "10.59568/jasic-2025-6-2-06"
+    ]
+  },
+  {
+    "id": "eval-094",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'MANAJEMEN DIKLAT TRANSFORMATIF: Model, Strategi, Dan Implementasi Dalam Kerangka Merdeka Belajar\u2013Kampus Merdeka'?",
+    "ground_truth": "MANAJEMEN DIKLAT TRANSFORMATIF: Model, Strategi, Dan Implementasi Dalam Kerangka Merdeka Belajar\u2013Kampus Merdeka",
+    "ground_truth_doc_ids": [
+      "10.62523/aksarashofa.6"
+    ]
+  },
+  {
+    "id": "eval-095",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Increasing Awareness of the Younger Generation on Political Participation in General Elections'?",
+    "ground_truth": "Ipso Jure",
+    "ground_truth_doc_ids": [
+      "10.62872/sza4qm30"
+    ]
+  },
+  {
+    "id": "eval-096",
+    "question_type": "topic",
+    "question": "What categories or topic describe 'Hybrid Model Process Design of Joint Operator-Robot Interaction within a Synergistic System'?",
+    "ground_truth": "International Conference on Cyber-Physical Systems in Smart Grids (CPSSG-2026)",
+    "ground_truth_doc_ids": [
+      "10.64592/cpssg.2026.2"
+    ]
+  }
+]
